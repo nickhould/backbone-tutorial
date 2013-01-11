@@ -1,0 +1,1 @@
+Simple app to communicate with an external server with Backbone.js.
